@@ -2,7 +2,7 @@
 
 ###These are solutions for the problem sets on [project euler](http://projecteuler.net/problems)
 ####Solutions are completed any or all of the following languages:
-* Python
+* python
 * javascript(node)
 * clojure
 * ruby
